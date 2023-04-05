@@ -37,6 +37,7 @@ III. Calcule o custo total para produzir as seguintes peças de reposição de T
 
 f. Adicione ao seu programa uma funcionalidade: ele solicita ao usuário que forneça os valores de custo por área de borracha (variável do tipo double). Então, ele usa esses valores para calcular o custo de um Tangram inteiramente de borracha, com dimensões 10.5x10.5 cm. Para ler entrada do usuário, use a classe Scanner (veja Seção 2.5 do livro-texto) e o método nextDouble().
 
+
 6. Escreva um método que converta um valor em real (recebido em um parâmetro) para dólar e retorne o valor em dólar. A taxa de conversão real para dólar também será um parâmetro de entrada desse método. O valor em real, a taxa de conversão e o valor em dólar deverão ser do tipo float.
 
 7. Escreva um método que determine quanto tempo leva para um corpo cair de determinada altura a partir do repouso. Este método receberá como parâmetro um valor do tipo double contendo a altura em centímetros em que o corpo está, e deverá retornar um valor do tipo double contendo o tempo da queda em segundos. Considere que a força da gravidade é igual a 9, 8m/s2. Use o método Math.sqrt()1 para obter a raiz quadrada.
