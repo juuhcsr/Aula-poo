@@ -1,0 +1,114 @@
+1 - Escreva o que será impresso pela execução do método abaixo caso ele receba como
+parâmetro os seguintes números:
+
+
+a. 10 
+	R = Multiplos de 10.0= 2  5 
+b. 15
+	R = Multiplos de 15.0= 3  5 
+c. 21
+	R = Multiplos de 21.0= 3  7
+d. 25
+	R = Multiplos de 25.0= 5
+e. 30
+	R = Multiplos de 30.0= 2  3  5 
+	
+	
+7 - Escreva o que será impresso pela execução do método abaixo, caso ele receba como
+parâmetro o número 10.
+	R = Imprimindo sequencia iniciando em 10.0
+5.0
+16.0
+8.0
+4.0
+2.0
+1.0
+
+8 -  Escreva o resultado que será impresso pela execução do método abaixo caso ele receba os
+seguintes parâmetros:
+ 
+ R =
+ 
+a - 2.0+3.0 = 5.0
+b - 4.0-2.0 = 2.0
+c - 5.0*6.0 = 30.0
+d - 9.0/3.0 = 3.0
+e - 2.0^5.0 = 32.0
+f - Operacao invalida!
+
+
+------------------------------
+Lista 3 
+1 - 
+
+Exercício a
+
+Oi
+Oi
+Oi
+Oi
+Oi
+
+Exercício b
+
+OiOiOiOiOi
+
+Exercício c
+
+Oi ProgramadorOi ProgramadorOi Programador
+
+Exercício D
+
+**********
+*        *
+*        *
+*        *
+**********
+
+
+2 -  o programa imprime o resultado de um número elevado ao quadrado 10 vezes
+1
+4
+9
+16
+25
+36
+49
+64
+81
+100
+
+3 - 
+
+
+11 - A resposta certa é a opção "C"
+
+12 - A resposta certa é a opção "B"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
