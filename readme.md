@@ -34,3 +34,6 @@ Aula 7 - Lista de exercícios
 - 8 - Multa dos jogadores por cartão recebido
 - 9 - Soma, produto, diferença e divisão de 2 valores ( scanner)
 
+Aula 9 - gerenciamento de contas de hotel
+
+
